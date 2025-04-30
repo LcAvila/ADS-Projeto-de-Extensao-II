@@ -56,7 +56,11 @@ npm run dev
 
 ## 📷 Capturas de Tela (exemplo)
 
-> Adicione aqui prints das telas do sistema, como dashboard, cadastro, alertas etc.
+![Capturar](https://github.com/user-attachments/assets/35473d18-f7be-46c8-b8f3-fc7495e007e1)
+
+![Capturar 2](https://github.com/user-attachments/assets/fea9d442-0c1b-4fb4-bbf3-d94b8ddf49f6)
+
+
 
 ---
 
